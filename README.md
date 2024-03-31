@@ -1,6 +1,5 @@
-# manzdev-retos-titulo
-
-🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
+# manzdev-retos-piedra papel o tijera
+🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/rock-paper-scissors/*
 
 ## Datos
 
